@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: Front Page
+post_title: Homepage
 author: user
 post_excerpt: ""
 layout: page
